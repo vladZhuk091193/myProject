@@ -5,7 +5,7 @@ public class Exercise3 {
         trueOrFalse(-4);
     }
     public static boolean trueOrFalse(int f) {
-        if (f <= 0) {
+        if (f < 0) {
             return false;
         } else {
             return true;
