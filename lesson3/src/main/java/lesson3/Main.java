@@ -1,3 +1,5 @@
+package lesson3;
+
 public class Main {
     public static void main(String[] args) {
         Employee[] array = new Employee[5];
@@ -14,3 +16,4 @@ public class Main {
         }
     }
 }
+
